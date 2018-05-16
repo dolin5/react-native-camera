@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/challenger/Documents/Work/forceClouds/mobile/phone/MobileCRM/node_modules/react-native-camera/android/build/intermediates/res/merged/debug/layout-v14/texture_view.xml",
+        "source": "/Users/challenger/Documents/Work/forceClouds/mobile/phone/MobileCRM/node_modules/react-native-camera/android/build/intermediates/exploded-aar/com.github.react-native-community/cameraview/eb9f726215bbbfcc03a54db92e480d4d02e0c001/res/layout-v14/texture_view.xml"
+    },
+    {
+        "merged": "/Users/awake/Desktop/work/crm/node_modules/react-native-camera/android/build/intermediates/res/merged/debug/layout-v14/texture_view.xml",
+        "source": "/Users/awake/Desktop/work/crm/node_modules/react-native-camera/android/build/intermediates/exploded-aar/com.github.react-native-community/cameraview/eb9f726215bbbfcc03a54db92e480d4d02e0c001/res/layout-v14/texture_view.xml"
+    }
+]
